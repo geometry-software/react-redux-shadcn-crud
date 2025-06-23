@@ -16,3 +16,5 @@ This project demonstrates a simple CRUD application using React, Redux and Tailw
 - `src/types.ts` – shared TypeScript types used across the app.
 
 Run `npm install` to install dependencies before starting the app.
+
+Type definitions are provided by `@types/react` and `@types/react-dom`.
