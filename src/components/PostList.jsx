@@ -27,8 +27,8 @@ export default function PostList() {
       <PostForm current={selected} />
       {loading && <p>Loading...</p>}
       {error && <p className="text-red-600">{error}</p>}
-      {posts.map((post) => (
-        <PostItem key={post.id} post={post} onSelect={setSelected} />
+      {posts.map((post, i) => (
+        <PostItem key={i} post={post} onSelect={setSelected} />
       ))}
     </div>
   );
