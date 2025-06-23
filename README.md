@@ -1,4 +1,5 @@
 # React Redux CRUD
+This project now uses **TypeScript** with Vite.
 
 This project demonstrates a simple CRUD application using React, Redux and Tailwind based styling inspired by shadcn/ui components. Posts are loaded from [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts).
 
@@ -12,5 +13,8 @@ This project demonstrates a simple CRUD application using React, Redux and Tailw
 
 - `src/store` – Redux setup divided into actions, reducers, selectors, effects and store configuration.
 - `src/components` – React components used by the app.
+- `src/types.ts` – shared TypeScript types used across the app.
 
 Run `npm install` to install dependencies before starting the app.
+
+Type definitions are provided by `@types/react` and `@types/react-dom`.
