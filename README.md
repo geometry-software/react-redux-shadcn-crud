@@ -1,7 +1,7 @@
-# React Redux CRUD
+# React Redux Firebase Todo
 This project now uses **TypeScript** with Vite.
 
-This project demonstrates a simple CRUD application using React, Redux and Tailwind based styling inspired by shadcn/ui components. Posts are loaded from [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts).
+This app demonstrates a todo list using React, Redux, Firebase and Tailwind based styling inspired by shadcn/ui components. A small set of products from JSONPlaceholder is included in `src/mockProducts.ts` as sample data for testing.
 
 ## Available Scripts
 
