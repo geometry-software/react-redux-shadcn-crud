@@ -18,3 +18,15 @@ This project demonstrates a simple CRUD application using React, Redux and Tailw
 Run `npm install` to install dependencies before starting the app.
 
 Type definitions are provided by `@types/react` and `@types/react-dom`.
+
+## Expo Usage
+
+This project includes an Expo setup with a Firebase placeholder and Product CRUD
+features. Install dependencies and start the app with:
+
+```
+npm install
+npx expo start
+```
+
+The Expo CLI lets you preview the app on iOS, Android or the web.
