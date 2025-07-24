@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "Phone", "description": "Smartphone", "price": 699 },
+  { "id": 2, "title": "Laptop", "description": "Notebook computer", "price": 1299 },
+  { "id": 3, "title": "Headphones", "description": "Noise cancelling", "price": 199 },
+  { "id": 4, "title": "Camera", "description": "Digital camera", "price": 499 },
+  { "id": 5, "title": "Watch", "description": "Smart watch", "price": 299 }
+]
