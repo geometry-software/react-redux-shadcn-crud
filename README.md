@@ -18,3 +18,7 @@ This project demonstrates a simple CRUD application using React, Redux and Tailw
 Run `npm install` to install dependencies before starting the app.
 
 Type definitions are provided by `@types/react` and `@types/react-dom`.
+
+## Expo Todo App
+
+A simple React Native todo application built with Expo, Redux and Firebase lives in the `expo-todo` folder. To run the mobile app install dependencies using `npm install` inside that directory and then run `npm start`.
